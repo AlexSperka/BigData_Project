@@ -1,5 +1,5 @@
 # Notebook NLP
-* [Notebook Alex - Press here to open it in Colab](https://colab.research.google.com/github/dagnert/BigData_Project/blob/alex/BigData.ipynb)
+* [Notebook Alex - Press here to open it in Colab](https://colab.research.google.com/github/AlexSperka/BigData_Project/blob/alex/BigData.ipynb)
 
 # Introduction
 
