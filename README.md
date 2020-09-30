@@ -56,3 +56,6 @@ There are several ways how to improve these scores from my point of view. Some o
 - Automation of parameter search on large scale not feasible (not even with the GPU)
 
 ---
+
+Collaborators:
+https://github.com/dagnert
