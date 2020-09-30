@@ -57,5 +57,5 @@ There are several ways how to improve these scores from my point of view. Some o
 
 ---
 
-Collaborators:
-https://github.com/dagnert
+# Collaborators:
+T. Dagner - https://github.com/dagnert
