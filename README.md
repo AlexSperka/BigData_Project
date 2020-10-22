@@ -1,4 +1,4 @@
-# Notebook NLP
+# Notebook NYC
 * [Notebook Alex - Press here to open it in Colab](https://colab.research.google.com/github/AlexSperka/BigData_Project/blob/master/BigData_A.Sperka.ipynb)
 
 # NYC fare prediction using Rapids and XG Boost running on GPU
